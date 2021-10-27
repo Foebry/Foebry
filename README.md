@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1> Testing </h1>
+Hi there, 
+I am a student full stack developper at Syntra-AB in Belgium.
 
 <!--
 **Foebry/Foebry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
