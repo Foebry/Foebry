@@ -1,5 +1,5 @@
 Hi there, 
-I am a student full stack developper at Syntra-AB in Belgium.
+I am a student full stack developper at Syntra-AB in Belgium. </br>
 <img src="https://www.codewars.com/users/SanderFabry/badges/small" />
 
 <!--
