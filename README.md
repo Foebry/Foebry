@@ -1,5 +1,8 @@
 Hi there, 
 I am a student full stack developper at Syntra-AB in Belgium. </br>
+
+I'm a big fan of technology and supporter of automating simple tasks.
+
 <img src="https://www.codewars.com/users/SanderFabry/badges/micro" />
 
 <!--
