@@ -1,5 +1,5 @@
 Hi there, 
-I am a student full stack developper at Syntra-AB in Belgium. </br>
+I am a currently studying at Syntra-AB to become a full stack developper. </br>
 
 I'm a big fan of technology and supporter of automating simple tasks.
 
