@@ -1,5 +1,5 @@
 Hi there, 
-I am a currently studying at Syntra-AB to become a full stack developper. </br>
+I just graduated at Syntra-AB as a full stack developper with high distinction. </br>
 
 I'm a big fan of technology and supporter of automating simple tasks.
 
