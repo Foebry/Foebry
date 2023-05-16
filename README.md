@@ -1,9 +1,4 @@
-Hi there, 
-I just graduated at Syntra-AB as a full stack developper with high distinction. </br>
 
-I'm a big fan of technology and supporter of automating simple tasks.
-
-<img src="https://www.codewars.com/users/SanderFabry/badges/micro" />
 
 <!--
 **Foebry/Foebry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
